@@ -1,0 +1,32 @@
+_repo: My-Pretty-Maid-or-Liane-Lester_51996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: ''
+gutenberg_issued: '2016-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Identity -- Fiction'
+- GITenberg
+title: My Pretty Maid; or, Liane Lester
+url: http://www.gutenberg.org/ebooks/51996
